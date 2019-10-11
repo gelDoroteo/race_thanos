@@ -1,0 +1,31 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.character {
+	position: absolute;
+	width: 100px;
+}
+
+#ai {
+	top: 100px;
+}
+
+#player {
+	top: 200px;
+}
+
+/*img {
+	height: 100px;
+}*/
+
+h1 {
+	text-align: center;
+}
+
+.btn {
+	text-align: center;
+}
+
